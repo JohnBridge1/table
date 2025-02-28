@@ -20,3 +20,162 @@
 | **Para Alpine Skiing**     | LW1–LW12, B1–B3, but compete in 3 groups: Sitting (LW10–12), Standing (LW1–9), VI (B1–3)         | Men’s/Women’s events are “Sitting,” “Standing,” or “VI.” All corresponding LW or B classes compete together with a time-factor system.                                                                                                                                                    | World Para Alpine Skiing & [paralympic.org](https://www.paralympic.org/alpine-skiing) | Listing separate medal events by each LW or B class instead of grouping into Sitting/Standing/VI. Mixing up which LW classes are sitting vs. standing.                                                                                                                                                                                                                      |
 | **Para Nordic Skiing**     | LW2–LW9 (standing), LW10–LW12 (sitting), B1–B3 (VI)                                              | Cross-country & Biathlon each have men’s/women’s “Standing,” “Sitting,” “VI” categories. All relevant LW or B classes compete together with factoring.                                                                                                                                   | World Para Nordic & [paralympic.ca](https://paralympic.ca/nordic-skiing)            | Splitting out each LW/B class as separate events, or mixing a sitting class in standing/VI. All standing LW2–9 race together, sitting LW10–12 together, and B1–B3 for VI.                                                                                                                                                                                                      |
 | **Para Snowboard**         | SB-LL1, SB-LL2, SB-UL                                                                            | Separate events for leg impairments (LL1/LL2) and arm impairments (UL). Some women’s events may combine classes if entries are low.                                                                                                                                                        | World Para Snowboard & [paralympic.org](https://www.paralympic.org/snowboard)        | Using nonexistent classes (SB-LL3), mixing UL with LL, or incorrectly combining men’s classes. Also failing to note that some women’s events combine LL2 & UL.                                                                                                                                                                                                               |
+
+1. Athletics (Track & Field)
+Para athletics uses T (track/jump) and F (field) classes.
+
+T = running and jumping events (e.g., 100m, 200m, 400m, 800m, 1500m, 5000m, marathon, long jump, triple jump, high jump).
+F = throwing events (shot put, discus, javelin, club throw).
+Classification Group	Codes	Impairment Type/Description	Typical Events
+Vision Impairment	T11–T13, F11–F13	B1/B2/B3 in other sports; T11/F11 = no functional vision, T12/F12 & T13/F13 = progressively higher visual acuity. T classes for running/jumps, F for throws.	T11–13 for sprints to marathon & jumps (often with guide for T11, T12). F11–13 for shot, discus, javelin.
+Intellectual Impairment	T20, F20	Athletes with an intellectual disability meeting IPC criteria.	T20 used in running/jumps (e.g., 400m, 1500m, long jump). F20 in shot put.
+Coordination Impairments (Cerebral Palsy, etc.)	T32–T38, F31–F38	Wheelchair track classes T32–34 (severe impairment: racing chairs), ambulant T35–38 (milder, can run/jump). F31–34 seated throws, F35–38 standing throws.	T32–34 in wheelchair races. T35–38 in ambulant sprints, mid-distance, jumps. F31–34 in seated shot/discus/club, F35–38 in standing throws.
+Short Stature	T40–T41, F40–F41	Dwarfism / short stature. T = running/jump, F = throws.	Track (sprints, up to 400m) or occasionally jumps for T40–41, field throws for F40–41 (shot put).
+Limb Deficiencies (Standing)	T42–T47, F42–F46	Single/double above- or below-knee/arm amputations (no prosthesis or minimal aids). T for running/jumps, F for throws.	T42–44: leg amputation(s). T45–47: arm amputation(s). F42–46 for throws.
+Prosthetic Running	T61–T64, F61–F64	Lower-limb amputees using prosthetic(s) for running (T) or throwing (F). Replaced older “T/F44–46” for some.	T61–64 for track (e.g., blade runners). F61–64 for javelin, discus, shot.
+Wheelchair Racing (Spinal Cord / Polio, etc.)	T51–T54	T51 = most severe trunk/arm involvement, T54 = least. All use racing chairs on track.	100m up to marathon (T51–54). No jumps in wheelchair classes.
+Wheelchair Field Throwing	F51–F57	Seated throws for more significant trunk/limb impairments.	Shot put, discus, javelin, club throw in a seated throwing frame. F51 = most severe trunk/arm involvement, up to F57 = mild.
+2. Swimming
+Para swimming classes have S (freestyle/backstroke/butterfly), SB (breaststroke), and SM (individual medley), each with a number indicating impairment severity or type:
+
+Classification	Codes	Description	Typical Events
+Physical Impairment (PI) – low to high function	S1–S10, SB1–SB9, SM1–SM10	Lower number = more severe impairment. Some swimmers may have different SB (breaststroke) class than S/SM due to stroke-specific limitations.	S = free/back/fly, SB = breast, SM = medley. For example, a swimmer might be S8, SB7, SM8.
+Visual Impairment (VI)	S11–S13, SB11–SB13, SM11–SM13	B1/B2/B3 analog. S11 = no functional vision (blackened goggles, tappers), S12/S13 = partial vision.	Freestyle, back, fly = Sxx; breast = SBxx; medley = SMxx. E.g. S11 swimmers always wear opaque goggles and use tapper signals.
+Intellectual Impairment	S14, SB14, SM14	Intellectual disabilities meeting IPC/World Para Swimming criteria.	Same strokes but class 14. For instance: 100m free S14, 100m breast SB14, 200m IM SM14.
+3. Cycling
+Para cycling divides athletes by equipment and impairment type:
+
+Classification	Codes	Equipment	Events
+Handcycle (H)	H1–H5	Handcycles (road only)	Road races & time trials only. H1 = more severe (tetraplegia), H5 = less severe.
+Tricycle (T)	T1–T2	Tricycles (road only)	Road races & time trials for balance/co-ordination impairments. T1 = more severe.
+Cycle (C)	C1–C5	Standard 2-wheel bikes (modified)	Both road (RR & TT) and track (pursuit, time trial, scratch, etc.). C1 = severe impairment, C5 = least severe.
+Tandem (B)	B	Tandem bike (pilot + stoker who is visually impaired)	Road & track for vision-impaired riders (B1–B3 combined). All “B” classes race together. E.g., tandem pursuit on track, tandem road race.
+4. Paratriathlon
+Current paratriathlon (PT) classes:
+
+Classification	Codes	Description	Events
+Wheelchair	PTWC (1 & 2 combined)	Athletes using a handcycle for bike leg and racing wheelchair for run. PTWC1 more severe, PTWC2 less. They race together with time factors.	Men’s PTWC, Women’s PTWC
+Standing	PTS2, PTS3, PTS4, PTS5	Ambulatory athletes with leg/arm impairments of varying severity. Lower number = more significant impairment.	Men’s PTS2–5, Women’s PTS2–5 (each is a separate event)
+Vision Impairment	PTVI (B1–B3 combined)	All levels of vision impairment, racing with a sighted guide (tethered run, tandem bike).	Men’s PTVI, Women’s PTVI
+5. Archery
+Para archery has two main classes (plus bow types):
+
+Classification	Description	Typical Events
+W1	Severe impairment in arms & legs, often limited trunk.	W1 events: can use recurve or compound with special rules (Men’s W1, Women’s W1, or mixed if not enough participants).
+Open	All other athletes with physical impairments (wheelchair or standing); older “ARW2” and “ST” are merged into “Open.”	Recurve Open (Men/Women) and Compound Open (Men/Women), plus mixed team events.
+6. Shooting (Para Sport)
+Two classes:
+
+Classification	Code	Description	Events
+SH1	SH1 (Rifle or Pistol)	Athletes who can support the firearm without a stand (impairment in legs or less severe arms). All pistol events are SH1 only.	10m Air Rifle (Standing or Prone), 50m Rifle, 10m/25m Pistol events. Separated by SH1 rifle vs. SH1 pistol.
+SH2	SH2 (Rifle only)	Athletes who cannot support the rifle with their arms; use a shooting stand.	Separate rifle events (10m Air Rifle Prone/Standing SH2), no pistol for SH2.
+7. Table Tennis
+Classes 1–11:
+
+1–5 = wheelchair users (1 most severe, 5 mildest wheelchair).
+6–10 = standing (6 severe, 10 mild).
+11 = intellectual impairment.
+Classification	Range	Description	Events
+Wheelchair	Class 1–5	Significant to moderate trunk/arm/leg impairments.	Singles by class (Men/Women). Some team events combine classes (e.g., Class 1–2 Team).
+Standing	Class 6–10	Leg/arm impairments but can stand. Lower class = more severe.	Singles by class (Men/Women). Team events may combine classes (e.g., Class 6–7 Team).
+Intellectual	Class 11	Intellectual impairment.	Men’s & Women’s singles class 11.
+8. Wheelchair Fencing
+Two categories:
+
+Classification	Code	Description	Events
+Category A	A	Good trunk control, less severe arm impairment.	Separate medal events for foil, épée, sabre (Men’s Cat. A, Women’s Cat. A).
+Category B	B	Poor trunk stability or more severe arm impairment.	Separate medal events for each weapon (Men’s Cat. B, Women’s Cat. B). No “Cat. C” in Paralympics.
+9. Wheelchair Tennis
+Two divisions (no numeric classes):
+
+Classification	Division	Description	Events
+Open	Open	Athletes with permanent leg impairment, normal arm function (e.g., paraplegia, amputees).	Men’s Singles/Doubles, Women’s Singles/Doubles (Open Division).
+Quad	Quad	Impairment in at least 3 limbs (significant arm & leg involvement).	Quad Singles, Quad Doubles (mixed gender).
+10. Goalball
+Single classification: all players are visually impaired (B1–B2–B3) but compete together wearing blackout eyeshades.
+Events: Men’s team, Women’s team. There are no separate classes within the sport; it’s one category.
+11. Football 5-a-side (Blind Football)
+Outfield players are B1 (totally blind). Goalkeeper can be sighted or partially sighted.
+Events: Men’s 5-a-side. (Women’s at some competitions, but not yet a Paralympic event.)
+12. Judo (Vision Impaired)
+All judoka (B1–B2–B3) compete together by weight category, not by separate vision classes.
+Events: Men’s/Women’s weight divisions (e.g., -60kg, -66kg, etc.). No separate B1, B2, B3 events.
+13. Powerlifting
+No functional classes; all must meet minimum disability criteria (lower-limb or hip impairment).
+Divided solely by body weight category (e.g., Men’s up to 49kg, 54kg, 59kg… Women’s up to 41kg, 45kg, 50kg, etc.).
+Events: Bench press by weight class.
+14. Equestrian (Para Dressage)
+Five grades: I to V (I = most severe impairment; V = least).
+
+Formerly I was split into Ia / Ib. Now consolidated into I.
+Each Grade has its own tests (walk/trot/canter variations).
+Classification	Grade	Description	Events
+Grade I	I	Severe impairment of trunk/limbs; often wheelchair users with minimal balance.	Individual & freestyle tests (mixed gender).
+Grade II	II	Severe leg and moderate trunk impairment.	Individual & freestyle tests (Grade II).
+Grade III	III	Moderate impairments; can perform some trot.	Grade III events.
+Grade IV	IV	Less severe impairments; can do walk, trot, canter.	Grade IV events.
+Grade V	V	Mildest physical impairments; can do all paces + lateral movements.	Grade V events.
+15. Boccia
+Classes BC1, BC2, BC3, BC4:
+
+Classification	Code	Description	Events
+BC1	BC1	Severe impairment (e.g., cerebral palsy) in all limbs; may have assistant to pass ball.	Individual BC1. Also competes in Team BC1/BC2 events.
+BC2	BC2	Better functional ability than BC1 but still severe; no assistant for throw.	Individual BC2. Also in Team BC1/BC2.
+BC3	BC3	Cannot throw/propel ball effectively by hand, use a ramp + assistant.	Individual BC3, Pairs BC3 (two BC3 players + ramp assistants).
+BC4	BC4	Severe impairments (not CP) in arms/legs but can throw. No ramp.	Individual BC4, Pairs BC4 (two BC4 players).
+16. Rowing (PR1, PR2, PR3)
+Formerly known as AS (Arms & Shoulders), TA (Trunk & Arms), LTA (Leg, Trunk & Arms).
+Classification	Code	Description	Events
+PR1	PR1	Minimal or no trunk/leg function (arms & shoulders only).	Men’s & Women’s Single Sculls PR1
+PR2	PR2	Trunk + arm function, no leg drive.	Mixed Double Sculls PR2 (1 male + 1 female)
+PR3	PR3	Can use legs, trunk, arms (includes some VI or mild physical).	Mixed Coxed Four PR3 (4 rowers + cox). Additional events in future.
+17. Canoe (Paracanoe: KL & VL)
+Two boat types:
+
+Kayak (KL1–KL3)
+Va’a (VL1–VL3)
+Classification	Codes	Boat	Description	Events
+KL1	KL1	Kayak	Very limited trunk/leg function (high-level spinal cord injury, etc.)	Men’s/Women’s KL1 (200m).
+KL2	KL2	Kayak	Partial trunk/leg function (e.g., above-knee amputees).	Men’s/Women’s KL2 (200m).
+KL3	KL3	Kayak	Least impaired kayak class (below-knee amputation, mild CP, etc.).	Men’s/Women’s KL3 (200m).
+VL1	VL1	Va’a	Severe trunk/leg impairment; uses an outrigger canoe with a single-blade paddle.	Men’s/Women’s VL1 (if offered).
+VL2	VL2	Va’a	Moderate trunk/leg impairment.	Men’s/Women’s VL2 (Paralympic events).
+VL3	VL3	Va’a	Mildest impairment among va’a classes.	Men’s/Women’s VL3 (some are Paralympic).
+(Note: Tokyo 2020 featured KL1–3 for men/women, and select VL events for men and women. Event offerings may expand.)
+
+18. Para Alpine Skiing
+Classes LW1–LW12 (standing/sitting) and B1–B3 (vision impaired) are grouped for actual competition:
+
+Standing: LW1–LW9
+Sitting: LW10–LW12
+Visually Impaired: B1–B3
+Classification Group	Range	Description	Events
+Standing	LW1–LW9 (Alpine)	Leg/arm impairments (amputations, CP) but skiing standing with outriggers or orthoses.	Men’s/Women’s Downhill (Standing), Super-G (Standing), Giant Slalom, Slalom, Super Combined (Standing). All LW1–9 together with factoring.
+Sitting	LW10–LW12	Sit-ski/monoski users with varying trunk control.	Men’s/Women’s Downhill (Sitting), etc. (All LW10–12 in one event category.)
+VI	B1–B3	Skiers with visual impairment, using a sighted guide if needed.	Men’s/Women’s Downhill (VI), Slalom (VI), etc. All B1–B3 grouped.
+19. Para Nordic Skiing (Cross-Country & Biathlon)
+Similar to alpine for physical classes:
+
+Standing: LW2–LW9
+Sitting: LW10–LW12
+Visually Impaired: B1–B3
+Classification Group	Codes	Description	Events
+Standing	LW2–LW9	Leg/arm impairments, stand to ski with poles & orthoses or outriggers.	Cross-country events (e.g., sprint, middle, long distances – classic or free), biathlon events (shooting + skiing). All in “Standing” group.
+Sitting	LW10–LW12	Sit-ski with trunk restraint, differing trunk control.	Cross-country (sit-ski) and biathlon (sit-ski) events. All LW10–12 grouped.
+VI	B1–B3	Visual impairment, with guide for skiing & acoustic signals for biathlon shooting.	Cross-country (VI) & biathlon (VI). All B1–B3 compete together with factoring.
+20. Para Snowboard
+Classes for lower-limb or upper-limb:
+
+Classification	Codes	Description	Events
+SB-LL1	LL1	Significant impairment in one/both legs (e.g. above-knee amputation, severe CP).	Men’s/Women’s Snowboard Cross LL1, Men’s/Women’s Banked Slalom LL1.
+SB-LL2	LL2	Less severe leg impairment (below-knee amputee, mild neurological).	Snowboard Cross LL2, Banked Slalom LL2.
+SB-UL	UL	Upper-limb impairment (arm amputation, brachial plexus injury) with minimal/no leg issues.	Snowboard Cross UL, Banked Slalom UL.
+(In some women’s events, LL2 and UL have been combined if entry numbers are low.)
+
+
+
+
+
+
+
+
